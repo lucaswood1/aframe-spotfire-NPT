@@ -1,0 +1,30 @@
+<div style="display:none">
+	<div id="msDeploy">
+		<SpotfireControl id="cc8c6f1abb4d4f238f2d3b5393162d75" />
+	</div>
+	<div id="xMax">
+		<SpotfireControl id="ba9f1a62514c450781065e8149df8734" />
+	</div>
+	<div id="yMax">
+		<SpotfireControl id="44ace1403fa445f98ed92cbb171f086b" />
+	</div>
+	<div id="zMax">
+		<SpotfireControl id="4329c14d49f14d79835e10264c6606ea" />
+	</div>
+	<div id="xMin">
+		<SpotfireControl id="e615ca21f7b141a4a888fe8226e67048" />
+	</div>
+	<div id="yMin">
+		<SpotfireControl id="1445b44aea324d8db3363cb82c737d55" />
+	</div>
+	<div id="zMin">
+		<SpotfireControl id="5be9cb18d0b54339a1830eb4b6bbcc39" />
+	</div>
+</div>
+<a-scene embedded>
+
+ <a-assets>
+   <img id="sky" src="943e1efd7a2d47e886a63a666e2302d4.png"/>
+  </a-assets>
+  <a-sky src="#sky"></a-sky>
+</a-scene>
